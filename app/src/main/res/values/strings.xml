@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Match Match</string>
+    <string name="title_activity_game">Match Match</string>
+    <string name="not_matching">Not Matching</string>
+</resources>
